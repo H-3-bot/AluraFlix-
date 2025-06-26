@@ -1,4 +1,9 @@
 body{
     background-color:black;
     color:aquamarine;
+    margin: 0px;
+}
+
+header{
+    border-bottom: double 4px rgb(116, 90, 188);
 }
