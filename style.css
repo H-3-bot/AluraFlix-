@@ -11,3 +11,26 @@ header{
     color:rgb(116, 90, 188);
 
 }
+
+h1{
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
+}
+section{
+    background-color: rgb(117, 143, 237);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display:flex;
+    justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: 5%;
+}
+
+img{
+    height: 200px;
+}
